@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\GumaniMoilaPart1\bin\Debug\net6.0\GumaniMoilaPart1.exe
+C:\Users\hp\source\repos\GumaniMoilaPart1\bin\Debug\net6.0\GumaniMoilaPart1.deps.json
+C:\Users\hp\source\repos\GumaniMoilaPart1\bin\Debug\net6.0\GumaniMoilaPart1.runtimeconfig.json
+C:\Users\hp\source\repos\GumaniMoilaPart1\bin\Debug\net6.0\GumaniMoilaPart1.dll
+C:\Users\hp\source\repos\GumaniMoilaPart1\bin\Debug\net6.0\GumaniMoilaPart1.pdb
+C:\Users\hp\source\repos\GumaniMoilaPart1\obj\Debug\net6.0\GumaniMoilaPart1.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\GumaniMoilaPart1\obj\Debug\net6.0\GumaniMoilaPart1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\GumaniMoilaPart1\obj\Debug\net6.0\GumaniMoilaPart1.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\GumaniMoilaPart1\obj\Debug\net6.0\GumaniMoilaPart1.AssemblyInfo.cs
+C:\Users\hp\source\repos\GumaniMoilaPart1\obj\Debug\net6.0\GumaniMoilaPart1.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\GumaniMoilaPart1\obj\Debug\net6.0\GumaniMoilaPart1.dll
+C:\Users\hp\source\repos\GumaniMoilaPart1\obj\Debug\net6.0\refint\GumaniMoilaPart1.dll
+C:\Users\hp\source\repos\GumaniMoilaPart1\obj\Debug\net6.0\GumaniMoilaPart1.pdb
+C:\Users\hp\source\repos\GumaniMoilaPart1\obj\Debug\net6.0\GumaniMoilaPart1.genruntimeconfig.cache
+C:\Users\hp\source\repos\GumaniMoilaPart1\obj\Debug\net6.0\ref\GumaniMoilaPart1.dll
